@@ -19,7 +19,7 @@
 ##  **About me**
 - 💞️ I’m looking to collaborate on different projects
 - :computer: Currently learning mobile dev (Flutter)
-- ☕ Tea addict
+- 🍵 Tea addict
 - AI enthusiast 
 
 ## **Github Profile stats**
